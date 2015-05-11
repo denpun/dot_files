@@ -14,6 +14,7 @@ set showmode
 set autoindent
 syntax on
 
+
 "Tabs
 set tabstop=4
 set softtabstop=4
